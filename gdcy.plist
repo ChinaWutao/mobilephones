@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://222.177.4.242/ios/icon.png</string>
+                        <string>https://gitee.com/phones/phone/raw/master/logo.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
