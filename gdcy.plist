@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://gitee.com/phones/mobilephones/raw/master/1.1.2.ipa</string>
+                        <string>https://github.com/ChinaWutao/mobilephones/raw/master/1.1.2.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://gitee.com/phones/phone/raw/master/logo.png</string>
+                        <string>https://gitee.com/phones/gdcy/raw/master/logo.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://gitee.com/phones/phone/raw/master/logo.png</string>
+                        <string>https://gitee.com/phones/gdcy/raw/master/oalogo.png</string>
                     </dict>
                 </array><key>metadata</key>
                 <dict>
@@ -38,9 +38,9 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>移动OA</string>
+                    <string>移动办公</string>
                     <key>title</key>
-                    <string>移动OA</string>
+                    <string>移动办公</string>
                 </dict>
             </dict>
         </array>
